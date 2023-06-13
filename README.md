@@ -1,6 +1,9 @@
 # digitale-dinge-59-poolthermometer
 
-Toit Source Code für Episode 59: https://www.youtube.com/watch?v=UoxJYDQheCM
+Toit Source Code für Episode 59.
+
+* Video: https://www.youtube.com/watch?v=UoxJYDQheCM
+* Webseite: https://www.digitale-dinge.de/blog/episode59_esp32poolthermometer/
 
 Please set the `GPIO_PIN_NUM` constant to the gpio pin that connects your DS18b20 sensor.
 # local.toit
